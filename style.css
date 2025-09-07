@@ -25,15 +25,7 @@ footer {
     color: var(--cream-white);
     text-align: center;
     padding: 15px;
- background-image: url("footerImage.jpg");
-  background-size: cover;
-  background-position: center; 
-  height: 150px;              
-  display: flex;              
-  justify-content: center;    
-  align-items: center;       
-  color: white;
-  font-weight: bold;}
+}
 
 button {
 background-color: var(--gold-accent);  
@@ -195,5 +187,6 @@ a:focus, button:focus { outline: 2px solid var(--gold-accent); }
 h2:hover { 
   color: var(--forest-green); 
 }
+
 
 
