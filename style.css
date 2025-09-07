@@ -188,17 +188,12 @@ h2:hover {
   color: var(--forest-green); 
 }
 
-#footer {
-  text-align: center;
-  padding: 10px;
-  background-color: #000;
-}
-
 .footer-img {
   width: 300px;
   height: auto;
   display: block;
   margin: 0 auto 10px;
 }
+
 
 
