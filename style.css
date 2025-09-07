@@ -27,8 +27,8 @@ footer {
     padding: 15px;
 }
 .footer-img {
-    max-width: 200px;
-    height: auto;
+    max-width: 100px;
+    height: 200;
 }
 button {
 background-color: var(--gold-accent);  
@@ -190,6 +190,7 @@ a:focus, button:focus { outline: 2px solid var(--gold-accent); }
 h2:hover { 
   color: var(--forest-green); 
 }
+
 
 
 
