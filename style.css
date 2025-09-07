@@ -26,12 +26,6 @@ footer {
     text-align: center;
     padding: 15px;
 }
-.footer-img {
-    max-width: 200;
-    height: auto;
-    display: block;
-    margin: 0 auto 10px;}
-}
 button {
 background-color: var(--gold-accent);  
 color: var(--gold-accent);  
@@ -192,6 +186,7 @@ a:focus, button:focus { outline: 2px solid var(--gold-accent); }
 h2:hover { 
   color: var(--forest-green); 
 }
+
 
 
 
