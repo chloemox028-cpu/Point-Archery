@@ -195,11 +195,10 @@ h2:hover {
 }
 
 .footer-img {
-  width: 10%;
+  width: 300px;
   height: auto;
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 10px;
 }
-
 
 
